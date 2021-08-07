@@ -8,6 +8,7 @@ Original file is located at
 """
 
 # Libraries needed for NLP
+import pandas as pd
 import nltk
 nltk.download('punkt')
 from nltk.stem.lancaster import LancasterStemmer
